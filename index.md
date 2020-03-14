@@ -8,5 +8,5 @@ This site is being reconstructed. Eventually, I will restore historically signif
 
 ## Social links
 
-- [Twitter](https://twitter.com/jaredwsmith) | [@chswx Twitter](https://twitter.com/chswx)
+- [Personal Twitter](https://twitter.com/jaredwsmith), [@chswx Twitter](https://twitter.com/chswx)
 - [GitHub](https://github.com/jaredwsmith)
