@@ -1,12 +1,9 @@
-# Jared W. Smith
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-## Software, weather, and lots of other things.
-
+layout: home
+---
 I manage software engineers at [BoomTown](https://boomtownroi.com) and try to wrangle the weather at [@chswx](https://chswx.com).
 
-This site is being reconstructed. Eventually, I will restore historically significant blog posts and some other pages.
-
-## Social links
-
-- [Personal Twitter](https://twitter.com/jaredwsmith), [@chswx Twitter](https://twitter.com/chswx)
-- [GitHub](https://github.com/jaredwsmith)
+This site is being reconstructed. Please be patient as I sort through 15 years of archives to find the things that deserve to persist.
