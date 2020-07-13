@@ -1,0 +1,14 @@
+---
+layout: post
+title: "iOS 14 First Impressions"
+date: "2020-07-13 07:48:07 -0400"
+---
+
+I've put in my first weekend with the iOS 14 public beta. Some first impressions, with the caveat that things can and likely will change:
+
+- It's stable as hell. (I hope this is one thing that doesn't change!) Animations and interactions are very smooth, fluid, and fast. There are a few visual glitches (particularly when texting from the rich Messages notification), but I chalk this up to this being beta 2. The only resprings I've seen so far are from changing wallpaper (yes, I reported it).
+- The home screen changes are most welcome. It goes beyond widgets (which are pretty great). I think the best part of it is the fact that app icons on the home screen can be made to be opt-in, making for some beautifully curated screens with only the highest-priority apps. I have three home screens: one for general day-to-day usage, one for weather, and one specifically tailored to work. The general home screen has a Smart Stack of news, fitness, maps, and today's reminders. The weather home screen has the new Apple weather widget powered by Dark Sky (which showed some evidence of problems this morning with a very cluttery radar), and my work home screen has a large Calendar widget at the top with a small Reminders widget in the right rail, specifically tailored to work reminders.
+- I suspect the WidgetKit-based widget framework will really take off with developers, though it does hurt to lose some of the rich interactivity with the old-style widgets. I do think that the WidgetKit widgets are a better implementation from a user interface perspective, though. When placed on a home screen, they essentially double as giant launchers for apps. So, when you dive into a widget and the app opens, when you swipe out, you are back to the home screen from which you launched. I'm not sure what I expected the behavior to be, but I'm glad it's not anything else but this.
+- I like the emphasis on consent in iOS 14, and the greater understanding of what apps are doing what. The green icon that lights up in the menu bar next to the camera when it is on is reminiscent of the hardware light on the Mac (and makes me wonder if such a hardware light might come to the iPhone). The paste notifications have already busted a few apps doing strange things with the clipboard, and the fact that new app installs can be sent directly to the App Library and not straight to the homescreen are all big wins for user consent. I hope app developers are watching these cues and adjusting appropriately. I'm a firm believer in user consent: if your application is bringing value and is trustworthy, users will happily opt-in. Don't trick users or do shady things behind the scenes.
+
+It'll be fun to watch iOS 14 evolve during the Summer of Bugs. It's already better than iOS 13 in so many ways, and should be well-received when it's released in the fall.
