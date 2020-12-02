@@ -6,7 +6,7 @@ date: "2020-12-01 19:05:59 -0500"
 
 I've been experimenting with a new content strategy for [@chswx](https://chswx.com) that I've been fairly happy with so far (with caveats).
 
-In short, I am beginning to originate most content from the WordPress blog that houses chswx.com. This isn't just blog posts, either, as I am beginning to do more microblogging directly on-site. Using [micro.blog](https://micro.blog), I am able to crosspost to Twitter and other networks if so desired. I accomplish this by using WordPress's Post Formats feature to set these posts as asides, pinging micro.blog on post, and then having the site retrieve my asides feed, upon which it will post to Twitter (I am considering adding Mastodon support as well). A cursory search of Micro.blog suggests that @chswx is the first account of its kind there, totally dedicated to local weather. (Please correct me if I am mistaken!)
+In short, I am beginning to originate most content from the WordPress blog that houses chswx.com. This isn't just blog posts, either, as I am beginning to do more microblogging directly on-site. Using [micro.blog](https://micro.blog), I am able to crosspost to Twitter and other networks if so desired. I accomplish this by using WordPress's Post Formats feature to set these posts as asides, pinging micro.blog on post, and then having the site retrieve my asides feed, upon which it will post to Twitter (I am considering adding Mastodon support as well). A cursory search of Micro.blog suggests that [@chswx](https://micro.blog/chswx) is the first account of its kind there, totally dedicated to local weather. (Please correct me if I am mistaken!)
 
 Micro.blog handles Tweeting quite well, but I've run into a couple issues that I need to iron out in my workflow:
 
