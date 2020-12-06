@@ -1,0 +1,19 @@
+---
+layout: post
+title: "SpaceHey"
+date: "2020-12-06 10:30:00 -0500"
+---
+
+![SpaceHey logo](../images/spacehey.png)
+
+I think [SpaceHey](https://spacehey.com), the product of a [rather prolific 18-year-old student and developer in Germany](https://àn.de), is my favorite thing this year. (And it isn't close.)
+
+SpaceHey, in case you didn't notice upon immediately clicking the link, is a MySpace clone that reimplements the 2006-era aesthetic with 2020's Web standards. It is not your typical parody site, either. It is a functional social network, complete with the ability to add friends, leave comments, write blogs, send private messages — all with the feel of time travel back to a somewhat more innocent age, before social networks were leveraged to undermine democracies and put wacky conspiracy theories into the mainstream. (This is not to say that MySpace didn't have its problems during its heyday, with concerns about sexual predators garnering [significant media coverage](https://www.nbcnews.com/id/wbna28999365).)
+
+The best part about SpaceHey, though, is how it stays true to the original MySpace's ability to customize profile pages (whether intentional or otherwise) using HTML and CSS. This, by far, was the differentiator — again, unclear whether it was intentional or not — for MySpace against competitors like Facebook and Friendster (remember THAT?). Not only did it give MySpace's users a unique way to personalize their profile, it taught a lot of those users HTML and CSS in the process. In the last few years of interviewing frontend developer candidates, I have come across several who started out coding on MySpace. You could say that MySpace was an interactive [CSS Zen Garden](http://www.csszengarden.com), and you would be pretty much on the mark.
+
+True to form, there are some [wildly](https://spacehey.com/contra) [customized](https://spacehey.com/yaya_cheshirecat) [profiles](https://spacehey.com/rosieholliday) out there. What makes this even more fun is that CSS has advanced greatly in the intervening decade+, allowing for customizations that we might have dreamed of in 2006.
+
+As for [me](https://spacehey.com/jaredwsmith), I've kept it pretty straightforward to this point, changing the font to Comic Sans (or Marker Felt if you are on iOS) and using the `<marquee>` tag guilt-free for the first time since I was too young to know better. I even fired up an old hard drive and extracted some MySpace customization assets (complete with PSDs!) from 2006-2008 which I might tweak and put up there at some point. (My profile picture dates back to the fall of 2006, when the hair was still on top of my head and not unevenly distributed around my face.)
+
+In a year that needs as much levity as it can muster, SpaceHey is a welcome distraction.
