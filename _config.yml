@@ -36,6 +36,13 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 
+# Some sensible defaults
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
 # Excerpts on homepage
 show_excerpts: true
 # Exclude from processing.

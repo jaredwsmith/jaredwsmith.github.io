@@ -2,9 +2,8 @@
 layout: post
 title: "SpaceHey"
 date: "2020-12-06 10:30:00 -0500"
+image: /assets/img/spacehey.png
 ---
-
-![SpaceHey logo](../images/spacehey.png)
 
 I think [SpaceHey](https://spacehey.com), the product of a [rather prolific 18-year-old student and developer in Germany](https://àn.de), is my favorite thing this year. (And it isn't close.)
 
