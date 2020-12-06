@@ -39,9 +39,9 @@ plugins:
 # Some sensible defaults
 defaults:
   - scope:
-      path: "assets/img"
+      path: ""
     values:
-      image: true
+      image: /assets/img/jaredwsmith.jpeg
 
 # Excerpts on homepage
 show_excerpts: true
